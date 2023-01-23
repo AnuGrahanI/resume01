@@ -1,0 +1,113 @@
+main{
+		background-color :white;
+		margin: 0 100px;
+		}
+		body{
+		background-color:#EDEADE;
+		padding-left:25px;
+		padding-right:25px;
+		margin: 0 100px
+		b
+		}
+		.a{
+			word-spacing:2cm;
+		}
+		.image {
+		  flex-basis:13%
+		}
+
+		.text {
+	     	text-align:left;
+		  font-size: 20px;
+		  padding-left: 2px;
+		  flex-basis:left;
+		}
+		.container {
+		padding-left:25px;
+        display: flex;
+        align-items: center;
+        justify-content: left
+		}
+		
+		.container2{
+		padding-left:25px;
+		padding-right:25px;
+		}
+		.dr{ 
+		background-color:black;
+		text-align: center;
+		padding-bottom:30px;
+		}
+		h1{
+		color:white;
+		font-size:250%;
+		}
+		.my{
+		font-size:15px;
+		}
+		.brush{
+		padding-top:12px;
+		flex-basis:4%;
+		width:25px;
+		}
+		.skill{
+		padding-left:30px;
+		flex-basis:right;
+		}
+		.container3{
+		display:flex;
+		padding-left:30px;
+		}
+		.skills{
+		text-align:center;
+		}
+		
+		.container4{
+		display:flex;
+		padding-left:20px;
+		}
+		.hat{
+		width:25px;
+		padding-top:12px;
+		flex-basis:4%;
+		}
+		.mye{
+		padding-left:15px;
+		font-size:15px;
+		}
+		p.b{
+		word-spacing:4cm;
+		font-size:20px;
+		}
+		.container5{
+		padding-left:30px;
+		}
+		.place{
+		line-height:50%;
+		}
+		.wheel{
+		width:25px;
+		padding-top:12px;
+		flex-basis:4%;
+		}
+		.proj{
+		padding-left:15px;
+		font-size:15px;
+		}
+		.container6{
+		display:flex;
+		padding-left:20px;
+		}
+		.proje{
+		line-height:60%;
+		}
+		.container7{
+		padding-left:30px;}
+		.media{
+		padding-left:30px;
+		word-spacing:1cm;
+		}
+		footer{
+		padding-left:30px;
+		}
+		
